@@ -1,4 +1,4 @@
-# Exercice 1 – Installation du serveur Ubuntu
+# Exercice 1 – Installation d'un client/serveur Ubuntu
 
 ### Informations
 - Évaluation : formative
@@ -10,7 +10,7 @@
 ### Objectifs :
 
 Cet exercice a pour objectifs :
-- D'intaller un environnement de travail
+- D'intaller un environnement de travail client/serveur
 
 Dans cet exercice, vous allez vous installer un environnement de travail pour la majorité des exercices et des travaux pratiques du cours. Vous allez utiliser un client Linux Ubuntu comme étant un client et un serveur.
 
@@ -19,8 +19,8 @@ Dans cette partie, vous allez installer un serveur Ubuntu selon les spécificati
 ### Étape 1 : Installation
 a - En utilisant l’ISO ubuntu-22.04-desktop-amd64.iso, créez une machine virtuelle selon les spécifications suivantes :
 
-    Dossier dans vSphere : DFC DS/VM DFC/E22_4393_420W44_ITV_JPD/
-    Nom de la VM : E22_4393_420W44_Ub_Cli_Initiale_#Matricule
+    Dossier dans vSphere : DFC DS/VM DFC/A22_4394_420W44_ISS_JPD/
+    Nom de la VM : A22_4394_420W44_Ub_Cli_Initiale_#Matricule
     CPU : 2
     Mémoires : 4 Go
     Disque dur : 2 disques, 20 Go chacun en partitionnement dynamique 
