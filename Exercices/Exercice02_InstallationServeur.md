@@ -3,7 +3,7 @@
 ### Informations
 - Évaluation : formative
 - Type de travail : individuel
-- Durée : 1 heures
+- Durée : 2 heures
 - Système d'exploitation : Linux Ubuntu serveur 22.04
 - Environnement : virtuel, vsphere.
 
