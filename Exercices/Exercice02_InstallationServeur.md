@@ -38,8 +38,8 @@ Dans cette partie, vous allez installer un serveur Ubuntu selon les spécificati
 ### Étape 1 : Installation
 a - En utilisant l’ISO ubuntu-22.04-live-server-amd64.iso, créez une machine virtuelle selon les spécifications suivantes :
 
-    Dossier dans vSphere : DFC DS/VM DFC/E22_4393_420W44_ITV_JPD/
-    Nom de la VM : E22_4393_420W44_Ub_srv_Initiale_#Matricule
+    Dossier dans vSphere : DFC DS/VM DFC/A22_4394_420W45_IIS_JPD/
+    Nom de la VM : A22_4394_420W45_Ub_srv_Initiale_#Matricule
     CPU : 2
     Mémoires : 2 Go
     Disque dur : 2 disques, 20 Go chacun en partitionnement dynamique 
