@@ -90,6 +90,8 @@ $sudo adduser ebedard
    * Propriétaire : root 
    * Groupe : users
    * Accessible en lecture, écriture et exécution pour le propriétaire
+   * Accessible en lecture, écriture et exécution pour le groupe users
+   * Accessible en lecture, écriture et exécution pour les autres
    * Placer un sticky bit sur le répertoire
 
 ## Utilisation de liens symboliques
