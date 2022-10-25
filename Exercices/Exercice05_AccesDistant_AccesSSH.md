@@ -34,7 +34,7 @@ Source : Pro Git
 
 --
 
-- Récupérer votre fork don mon dépôt par la commande git clone nom de votre copie sur votre poste de travail.
+- Récupérer votre fork de mon dépôt par la commande git clone nom de votre copie sur votre poste de travail.
 - Modifier le fichier README.md en y ajoutant votre nom dans la liste des contributeurs.
 - Pousser votre modification sur votre dépôt sur Git Hub avec la commande push. Si vous avez bien inséré votre clé SSH sur GitHub, vous ne devriez pas avoir besoin de vous authentifier.
 - Sur votre page de GitHub, faites une demande de Pull Request pour que j'accepte de modifier le dépôt principal de votre contribution. Soyez gentil, écrivez un message avec votre demande.  Si non, peut-être que je n’accepterais pas votre demande.;-)
