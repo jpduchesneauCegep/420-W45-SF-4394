@@ -47,7 +47,6 @@
 - Vous devez utiliser des images pour favoriser la compréhension.
 - Vous devez donner vos sites de références.
 - Vous devez indiqué l'adresse du dépôt dans LÉA, Travaux-> Travail pratique 1 : Procédure d'installation d'un serveur  
-    -
 
 ## Consignes :
 
