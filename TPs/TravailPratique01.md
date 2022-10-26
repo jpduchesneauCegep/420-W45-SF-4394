@@ -37,19 +37,21 @@
 
 ## Vous devez fournir :
 
-- Un dépôt GitLab de votre travail
-    - Le professeur doit être collaborateur ainsi que les 2 membres de l'équipe
+- Un dépôt GitLab de votre travail dont 
     - Un fichier auteurs.md qui résume les informations sur le dépôt
          - Date 
          - Membre de l'équipe
          - Contexte
+- Le professeur doit être Maintainer ainsi que les 2 membres de l'équipe
 - Votre fichier avec toutes les parties demandées. Vous devez utiliser le format Markdown (md).
 - Vous devez utiliser des images pour favoriser la compréhension.
 - Vous devez donner vos sites de références.
+- Vous devez indiqué l'adresse du dépôt dans LÉA, Travaux-> Travail pratique 1 : Procédure d'installation d'un serveur  
+    -
 
 ## Consignes :
 
-- Le temps  alloué en classe est de trois (2) périodes pour un total de trois (3) heures.
+- Le temps  alloué en classe est d'une périodes.
 - La date de remise est celle indiquée sur LÉA.
 - Ce travail pratique vaut pour 10 % de la note finale.
 - Ce travail est réalisé en équipe de 2 membres et seuls les membres de cette équipe y contribuent.
