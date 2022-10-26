@@ -69,7 +69,7 @@
 ## Évaluation :
 |Item |Points  |Résultat 
 --- | --- | ---|
-|Dépôt GitHub |20||
+|Respect des consignes sur le dépôt |20||
 |Respect des caractéristiques |20||
 |Mise à jour préalable  |30||
 |Procédure de vérification |30||
