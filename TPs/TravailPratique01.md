@@ -3,7 +3,7 @@
 **But :** le but de ce laboratoire est de **documenter** la procédure d'installation d'un serveur Ubuntu 22.04 LTS dans votre environnement de test.  **Attention documenter n'est pas installer**
 
    - Ce serveur doit utiliser un système de stockage LVM.
-   - Il a carte réseau présente sur le réseau 10.100.2.0/24
+   - La carte réseau est présente sur le réseau 10.100.2.0/24
    - Il y a 2 processeurs et 4 Go de mémoire vive.
    - Ce serveur devrait pouvoir être accédé depuis une machine client depuis le protocole ssh. 
    - Il faut que le service ssh soit sécurisé.
@@ -40,17 +40,17 @@
 - Un dépôt GitLab de votre travail dont 
     - Un fichier auteurs.md qui résume les informations sur le dépôt
          - Date 
-         - Membre de l'équipe
+         - Membres de l'équipe
          - Contexte
 - Le professeur doit être Maintainer ainsi que les 2 membres de l'équipe
 - Votre fichier avec toutes les parties demandées. Vous devez utiliser le format Markdown (md).
 - Vous devez utiliser des images pour favoriser la compréhension.
 - Vous devez donner vos sites de références.
-- Vous devez indiqué l'adresse du dépôt dans LÉA, Travaux-> Travail pratique 1 : Procédure d'installation d'un serveur  
+- Vous devez indiquer l'adresse du dépôt dans LÉA, Travaux-> Travail pratique 1 : Procédure d'installation d'un serveur  
 
 ## Consignes :
 
-- Le temps  alloué en classe est d'une périodes.
+- Le temps alloué en classe est d'une période.
 - La date de remise est celle indiquée sur LÉA.
 - Ce travail pratique vaut pour 10 % de la note finale.
 - Ce travail est réalisé en équipe de 2 membres et seuls les membres de cette équipe y contribuent.
